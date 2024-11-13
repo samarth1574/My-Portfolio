@@ -315,5 +315,14 @@ form .btn2{
     margin-top: 20px;
 }
 
+.logo{
+   font-size: xx-large;
+}
+
+.logo > span{
+    color: red;
+    font-size: 40px;
+    margin-right: 2px;
+}
 /*------responsive-----*/
 
