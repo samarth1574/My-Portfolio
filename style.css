@@ -224,6 +224,10 @@ nav ul li a:hover::after{
     margin-bottom: 20px;
 }
 
+.work > a{ 
+    color: white;
+}
+
 
 
 .work:hover img{
